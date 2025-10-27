@@ -59,7 +59,7 @@
 ## 📸 Screenshots:
 
 
-• Start scanning 
+• Start Scanning 
 
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark./blob/main/scan.png)
 
@@ -71,7 +71,7 @@
 
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark./blob/main/dns(3).png)
 
-• TCP scan
+• TCP Scan
 
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark./blob/main/tcp(1).png)
 
