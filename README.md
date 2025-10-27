@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 
-To capture live network traffic using Wireshark, identify and analyze basic network protocols such as HTTP, DNS, and TCP, and gain hands-on experience in packet capturing, filtering, and protocol recognition. This exercise aims to develop foundational skills in network traffic analysis and enhance understanding of how different protocols operate within a network
+  To capture live network traffic using Wireshark, identify and analyze basic network protocols such as HTTP, DNS, and TCP, and gain hands-on experience in packet capturing, filtering, and protocol recognition. This exercise aims to develop foundational skills in network        traffic analysis and enhance understanding of how different protocols operate within a network
 
 ---
 
@@ -55,6 +55,9 @@ To capture live network traffic using Wireshark, identify and analyze basic netw
     - `File → Save As → network_capture.pcap`
 
 ---
+
+## 📸 Screenshots:
+
 
 • Start scanning 
 
