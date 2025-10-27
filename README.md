@@ -57,15 +57,19 @@ To capture live network traffic using Wireshark, identify and analyze basic netw
 ---
 
 • Start scanning 
+
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark./blob/main/scan.png)
 
 • HTTP Scan
+
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark./blob/main/http(2).png)
 
 • DNS Scan
+
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark./blob/main/dns(3).png)
 
 • TCP scan
+
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-5-Capture-and-Analyze-Network-Traffic-Using-Wireshark./blob/main/tcp(1).png)
 
 
